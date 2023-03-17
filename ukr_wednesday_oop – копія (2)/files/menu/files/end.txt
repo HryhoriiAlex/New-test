@@ -1,0 +1,49 @@
+клас(сайт) - https://classroom.google.com/u/0/h?hl=ru
+переписк(прогамма) - C:\Users\Григорий\AppData\Local\Viber\Viber.exe
+документ(прогамма) - C:\Users\Григорий\Desktop\Friday.docx
+стрілял(сайт) - https://warmerise.com/pages/RedvsBlue
+дзвінк(прогамма) - C:\Users\Григорий\Desktop\Discord.lnk
+закр, вікн(комбінація) - alt+f4
+шум(прогамма) - C:\Users\Григорий\Desktop\ШУМ.lnk
+телеграм(прогамма) - C:\Users\Григорий\Desktop\Telegram.lnk
+підручник(прогамма) - D:\Учебники
+згор(комбінація) - win + m
+маленьк(сайт) - https://www.tiktok.com/ru-RU
+табл(сайт) - https://uchim.org/matematika/tablica-kvadratov
+куб(прогамма) - "C:\Program Files\Google\Chrome\Application\chrome_proxy.exe"  --profile-directory="Profile 5" --app-id=peoigcfhkflakdcipcclkneidghaaphd
+переклад(сайт) - https://translate.google.com/
+він, налашт(комбінація) - win + i
+велик(комбінація) - caps lock
+план(прогамма) - C:\Users\Григорий\Desktop\Plan.docx
+нов, знан(сайт) - https://nz.ua/menu
+розклад(сайт) - https://nz.ua/school11555/schedule/diary
+подобайк(комбінація) - l
+сталк(прогамма) - C:\Program Files (x86)\GSC World Publishing\S.T.A.L.K.E.R\bin\XR_3DA.exe
+прогноз, погод(сайт) - https://fancy-manatee-6664b1.netlify.app/
+тривог(сайт) - https://alerts.in.ua/
+муз(прогамма) - D:\Python\friday\ukr_wednesday_oop\iron.mp3
+рейтинг(прогамма) - D:\Python\my_projects\top_100\main.exe
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
